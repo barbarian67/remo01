@@ -1,2 +1,3 @@
 def foo():
-	return 0;
+	u=0
+	return u;
